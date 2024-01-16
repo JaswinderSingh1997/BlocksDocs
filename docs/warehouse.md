@@ -17,6 +17,9 @@ sidebar_position: 3
 ### What is Warehouse?
 The *BLOCKS* warehouse is a space icon that holds the catalogue offerings provided by Interior Company. You can access our data library through the warehouse, where assets required for any project can be easily found. 
 
+![warehouse](../static/img/warehouse/warehouse.png)
+
+![warehouse2](../static/img/warehouse/warehouse2.png)
 
 
 
@@ -29,7 +32,9 @@ Have to explain categories somewhere, what are categories and how are they vary
 This category showcases all things woodwork. Upon finalising the room type, you can add modules and woodwork to the floor plan. 
 
 ### Modular Item Catalogue
-The items available under the modular category depend on the room type selected by the designer, namely bedroom, kitchen or living room.  
+The items available under the modular category depend on the room type selected by the designer, namely bedroom, kitchen or living room. 
+
+![modular1](../static/img/warehouse/modular1.png)
 
 
 
@@ -37,16 +42,19 @@ The items available under the modular category depend on the room type selected 
 
 Since the room type selected here is kitchen, the properties in the drop-down menu will contain space-specific items. 
 
+![modular2](../static/img/warehouse/modular2.png)  ![modular3](../static/img/warehouse/modular3.png)
+
 
 
 ### What is ‘Add to Room’?
 
 *This option allows you to add items to the canvas, which will eventually be added to your end quotation.* 
 
-**Step 1**: Click on the ‘Modular’icon. You will see sub-categories based on the selected room type. 
+**Step 1**: Click on the ‘Modular’   ![modularicon](../static/img/warehouse/modularicon.png)  icon. You will see sub-categories based on the selected room type. 
 
-**Step 2**: Explore the product library and finalise the required item. 
+**Step 2**: Explore the product library and finalise the required item.
 
+![modulartab](../static/img/warehouse/modulartab.png)
 
 
 **Step 3**: The available products in the library can be added to your floor plan. Select the ‘+’ sign and finalise your item. 
@@ -67,15 +75,15 @@ We provide onsite services as a company like electrical, false ceiling or carpen
 ***Overview***                                                                                                                                       
 ‘Props’ is solely available for visualisation, depending on the room type. Better visualisation for the client but not for the quotation; this is primarily present to beautify the floor plan/ canvas design. 
 
-
+![propstab](../static/img/warehouse/propstab.png)
 
 **Add an item to the floor plan-** 
 
-**Step 1**: Click on the ‘Props’ iconto access the props library. 
+**Step 1**: Click on the ‘Props’ ![propsicon](../static/img/warehouse/propicon.png)  icon to access the props library. 
 
 **Step 2**: A drop-down section on the left side of your screen will showcase several room choices. Select the room type, and choose the prop from the menu. 
 
 
 **Step 3**: Click on ‘Add to Room’ under preferred prop to add to the floor plan.
 
-
+![propitem](../static/img/warehouse/propitem.png)
