@@ -25,6 +25,8 @@ Scaling can be done by long pressing the cursor after selecting the tool.
 
 ## **MOVE TOOL** 
 
+![movetool](../static/img/termology/movetool.png)
+
 ### **Overview-** 
 This tool on the 3D window allows you to relocate or move module(s) in a designated direction within a room.
 
@@ -43,6 +45,8 @@ Select the tool and add the desired value in the bar provided at the bottom
 
 ## **DOORS/WINDOWS**
 
+![doors](../static/img/termology/doors.png)
+
 ### **Overview-** 
 Add doors and windows to your floor plan.
 
@@ -60,6 +64,8 @@ Doors and windows can be added to the design after selecting the area in the des
 
 
 ## **ROTATE**
+
+![rotate](../static/img/termology/rotate.png)
 
 ### **Overview-** 
 Used to rotate an entity in the room at any desirable angle. 
@@ -81,6 +87,8 @@ Enter the exact angle/number in the bottom bar for a precise angle.
 
 ## **LAYERS**
 
+![layers](../static/img/termology/layers.png)
+
 ### **Overview-** 
 The dynamic layers tool on both windows helps hide/unhide structural entities, while catalogue layers are categorised according to room settings.
 
@@ -99,7 +107,7 @@ Selecting the tool will let the designer utilise the side window to hide and unh
 
 ## **AREA SELECTION TOOL**             
 
-
+![arrow](../static/img/termology/arrow.png)
 
 ### **Overview-** 
 This tool is used for single or multiple module selections.
@@ -115,6 +123,8 @@ Tool Tip-
 
 
 ## **CREATE ROOM SHAPE** 
+
+![createroomicon](../static/img/termology/createroomicon.png)
 
 ### **Overview-** 
 Create a room using predefined shapes and templates, or create a custom shape for your plan.
@@ -134,7 +144,11 @@ Utilise default shapes to create a predefined layout that suits the floor plan. 
 
 ## **VIEWS / Perspective and Parallel** 
 
+![camera](../static/img/termology/cameraview.png)
+
 or 
+
+![video](../static/img/termology/videoview.png)
 
 ### **Overview-** 
 This tool provides default camera angles. It also defines the parallel and perspective views of the canvas.
@@ -154,7 +168,7 @@ The designer can choose a parallel or perspective view for any camera angle. No 
 
 ## **SNAP TOOL** 
 
-or 
+![snaptool1](../static/img/termology/snaptool1.png)  or  ![snaptool2](../static/img/termology/snaptool2.png)
 
 ### **Overview-** 
 This tool will assist in manoeuvrability. It ensures precise positioning of an entity adjacent to another entity.
@@ -192,6 +206,7 @@ This tool is tagged at the left cursor of the mouse at all times.
 
 ## **CREATE STRUCTURAL ENTITIES**
 
+![bricks](../static/img/termology/bricks.png)
 
 ### **Overview-** 
 Add structural entities like columns/beams/ slabs to your floor plan. This tool allows you to alter the properties of your entity.
@@ -210,6 +225,8 @@ Add in 2D and change properties like dimensions in both 2D and 3D. Move to the d
 
 ## **VISUALISATION**
 
+![visualisation](../static/img/termology/visualisation.png)
+
 ### Overview- 
 
 ### Features & Functionality- 
@@ -222,6 +239,8 @@ Use Cases-
 Tool Tip- 
 
 ## **MEASUREMENT** 
+
+![measurement](../static/img/termology/measure.png)
 
 ### Overview- 
 
@@ -236,6 +255,8 @@ Tool Tip-
 
 ## **CAMERA**
 
+![camera](../static/img/termology/camera.png)
+
 ### Overview- 
 
 ### Features & Functionality- 
@@ -249,6 +270,7 @@ Tool Tip-
 
 ## **ADD SKIRTING and COUNTERTOP**
 
+![skirting](../static/img/termology/skirting.png)
 
 ### Overview- 
 
@@ -264,6 +286,7 @@ On the toolbar
 
 ## **UNDO/REDO** 
 
+![undoredo](../static/img/termology/undoredo.png)
 
 ### **Overview-** 
 
@@ -282,6 +305,7 @@ Redo: Reverse or repeat a previously undone action.
 
 ## **ENVIRONMENT SETTINGS**
 
+![environment](../static/img/termology/environment.png)
 
 ### Overview- 
 
@@ -296,6 +320,7 @@ Redo: Reverse or repeat a previously undone action.
 
 ## **LIT/UNLIT**
 
+![litunlit](../static/img/termology/litunlit.png)
 
 ### **Overview-** 
 To provide a rendered view of the set view
@@ -312,6 +337,8 @@ This feature enhances the view displayed in the 3D. It can be used for presentat
 
 ## **TEXT** 
 
+![text](../static/img/termology/text.png)
+
 ### Overview- 
 
 ### Features & Functionality- 
@@ -324,6 +351,8 @@ This feature enhances the view displayed in the 3D. It can be used for presentat
 
 
 ## **WAREHOUSE** 
+
+![warehouse](../static/img/termology/warehouse.png)
 
 ### **Overview-** 
 This allows you to add modules and items in 3D for visualisation or quotation.
@@ -352,6 +381,7 @@ This tool provides user flexibility to model any required element from a visuali
 
 ## **GALLERY**
 
+![gallery](../static/img/termology/gallery.png)
 
 ### **Overview-** 
 Captured images are stored and can be accessed from the gallery.
@@ -369,6 +399,8 @@ On the toolbar
 
 ## **LIGHTS**
 
+![lights](../static/img/termology/lights.png)
+
 ### **Overview-** 
 To provide and add sources of illumination in the room.
 
@@ -384,6 +416,8 @@ There will be up to three sources of lights provided to the user to add to their
 
 ## **SETTINGS**
 
+![settings](../static/img/termology/settings.png)
+
 ### **Overview-** 
 Access complete room property settings. 
 
@@ -397,6 +431,8 @@ Access complete room property settings.
 ### Tool Tip- 
 
 ## **EXPORT**
+
+![export](../static/img/termology/export.png)
 
 ### **Overview-** 
 To export 2D drawings and a cultist. 
@@ -412,6 +448,7 @@ To export 2D drawings and a cultist.
 
 ## **IMPORT** 
 
+![import](../static/img/termology/import.png)
 
 ### **Overview-** 
 To import files into the project. They can be in JPG format or 3D model and can be imported from an existing project.
