@@ -6,7 +6,9 @@ sidebar_position: 1
 
 ## Introduction
 
+:::note
 Welcome to BLOCKS. This go-to guide will help you enhance your design journey seamlessly. Use the guide to learn how to navigate through BLOCKS- from utilising tools for project management executing features such as colour schemes, 3D modelling, etc, to maintaining uniform client collaboration. 
+:::  
 
 Let's begin understanding this intuitive and efficient design platform. 
 
